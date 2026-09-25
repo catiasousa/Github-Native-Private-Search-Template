@@ -1,9 +1,10 @@
 name: GitHub profile search (starter template)
 
+# GitHub Actions schedules use UTC.
+# Ask Claude to adjust this cron expression for the recruiter's desired timezone.
 on:
   schedule:
     - cron: "7 1,9,13,17 * * *"
-      timezone: "REPLACE_WITH_TIMEZONE"
   workflow_dispatch:
 
 permissions:
