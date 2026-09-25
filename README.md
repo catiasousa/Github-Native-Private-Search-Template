@@ -1,6 +1,6 @@
 # GitHub Search Template
 
-A safe, reusable starter template for building a scheduled GitHub profile search.
+A reusable starter template for building a scheduled GitHub profile search.
 
 This repository is **not** a working search. It contains placeholder configuration values and is meant to be customized before use.
 
@@ -45,6 +45,7 @@ The workflow file is intentionally placed inside `starter-files/.github/workflow
 - Minimum account age
 - Minimum number of public repositories
 - Required recent activity window
+- Any other parameters that meet your ideal profile candidate
 - Recheck interval for already-processed profiles
 - Timezone
 - Run schedule
