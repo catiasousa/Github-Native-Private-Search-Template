@@ -1,8 +1,10 @@
 # GitHub Search Template
 
-A reusable starter template for building a scheduled GitHub profile search.
+A public starter template for building a private GitHub Actions workflow that searches public GitHub profiles by your chosen parameters (location, programming language, account age, repository activity and other custom filters)
 
-This repository is **not** a working search. It contains placeholder configuration values and is meant to be customized before use.
+This repository is not a live search. It is a safe template that recruiters can copy, adapt with Claude (or your LLM of choice) and move into their own private repository for their own hiring search.
+
+The goal is simple: keep the public template generic and safe, while letting each recruiter customize the search for their own market, stack and hiring criteria.
 
 ## How this works
 
